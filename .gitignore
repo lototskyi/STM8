@@ -21,10 +21,13 @@
 #User Specific Files
 *.spy
 *.pdb
+*.stp
+*.dep
 
 #Workspace
 *.wdb
 *.wed
+*.stw
 
 #Proteus temporary files
 *.workspace
