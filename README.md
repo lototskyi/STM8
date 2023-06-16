@@ -7,4 +7,4 @@ All the software is free to download and use, you would just have to register a 
 * [Standard Peripheral Library ](https://github.com/CircuitDigest/STM8S103F3_SPL)
 * [STM8Cube Mx (Optional)](https://grid.malven.co/)
 * [STMStudio for STM8 (Optional)](https://www.st.com/en/development-tools/stm-studio-stm8.html)
-* [Getting started with STM8S] (https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler)
+* [Getting started with STM8S](https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler)
